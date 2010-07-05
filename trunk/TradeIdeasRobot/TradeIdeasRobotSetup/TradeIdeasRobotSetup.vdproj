@@ -27,20 +27,8 @@
         }
         "Entry"
         {
-        "MsmKey" = "8:_402D21FB261BBAEF2DC409391D16763C"
-        "OwnerKey" = "8:_90C541ED8DEC45908A5EA9A96C3048BA"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
         "MsmKey" = "8:_5993F1A6CBC518154A25B458BBDE834C"
         "OwnerKey" = "8:_7A19D47FA11A4EB1B42E1012709ED5A9"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_5993F1A6CBC518154A25B458BBDE834C"
-        "OwnerKey" = "8:_90C541ED8DEC45908A5EA9A96C3048BA"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -51,20 +39,8 @@
         }
         "Entry"
         {
-        "MsmKey" = "8:_5F063D3582F1469B6A8F3A63B42DA71E"
-        "OwnerKey" = "8:_90C541ED8DEC45908A5EA9A96C3048BA"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
         "MsmKey" = "8:_740B58875CB784F0F51D258EF9AB8D66"
         "OwnerKey" = "8:_7A19D47FA11A4EB1B42E1012709ED5A9"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_740B58875CB784F0F51D258EF9AB8D66"
-        "OwnerKey" = "8:_90C541ED8DEC45908A5EA9A96C3048BA"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -81,13 +57,7 @@
         }
         "Entry"
         {
-        "MsmKey" = "8:_8D5F9357E38FFA1116AC49FEAD82763F"
-        "OwnerKey" = "8:_90C541ED8DEC45908A5EA9A96C3048BA"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_90C541ED8DEC45908A5EA9A96C3048BA"
+        "MsmKey" = "8:_91892B8252024D2092B9573BDFDBADAD"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -118,12 +88,6 @@
         "Entry"
         {
         "MsmKey" = "8:_AF97B9BF5EF59095C1B7D472C1C2BD71"
-        "OwnerKey" = "8:_90C541ED8DEC45908A5EA9A96C3048BA"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_AF97B9BF5EF59095C1B7D472C1C2BD71"
         "OwnerKey" = "8:_7A19D47FA11A4EB1B42E1012709ED5A9"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -131,24 +95,12 @@
         {
         "MsmKey" = "8:_D2EDADAC12A824D1FE21FC823FBE535A"
         "OwnerKey" = "8:_7A19D47FA11A4EB1B42E1012709ED5A9"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_D2EDADAC12A824D1FE21FC823FBE535A"
-        "OwnerKey" = "8:_90C541ED8DEC45908A5EA9A96C3048BA"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_E0FEEC7750C818C6174ECEBD9A84D64F"
         "OwnerKey" = "8:_5F063D3582F1469B6A8F3A63B42DA71E"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_E0FEEC7750C818C6174ECEBD9A84D64F"
-        "OwnerKey" = "8:_90C541ED8DEC45908A5EA9A96C3048BA"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -172,12 +124,6 @@
         "Entry"
         {
         "MsmKey" = "8:_F6202503D8BACE4B57ABBCD2051618F2"
-        "OwnerKey" = "8:_90C541ED8DEC45908A5EA9A96C3048BA"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_F6202503D8BACE4B57ABBCD2051618F2"
         "OwnerKey" = "8:_7A19D47FA11A4EB1B42E1012709ED5A9"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -185,18 +131,6 @@
         {
         "MsmKey" = "8:_FB3FDE0928E6919437258A37D37B44DF"
         "OwnerKey" = "8:_F6202503D8BACE4B57ABBCD2051618F2"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_740B58875CB784F0F51D258EF9AB8D66"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_90C541ED8DEC45908A5EA9A96C3048BA"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -259,6 +193,12 @@
         "OwnerKey" = "8:_AF97B9BF5EF59095C1B7D472C1C2BD71"
         "MsmSig" = "8:_UNDEFINED"
         }
+        "Entry"
+        {
+        "MsmKey" = "8:_UNDEFINED"
+        "OwnerKey" = "8:_740B58875CB784F0F51D258EF9AB8D66"
+        "MsmSig" = "8:_UNDEFINED"
+        }
     }
     "Configurations"
     {
@@ -277,6 +217,27 @@
         "PrivateKeyFile" = "8:"
         "TimeStampServer" = "8:"
         "InstallerBootstrapper" = "3:2"
+            "BootstrapperCfg:{63ACBE69-63AA-4F98-B2B6-99F9E24495F2}"
+            {
+            "Enabled" = "11:TRUE"
+            "PromptEnabled" = "11:TRUE"
+            "PrerequisitesLocation" = "2:1"
+            "Url" = "8:"
+            "ComponentsUrl" = "8:"
+                "Items"
+                {
+                    "{EDC2488A-8267-493A-A98E-7D9C3B36CDF3}:Microsoft.Net.Framework.3.5"
+                    {
+                    "Name" = "8:.NET Framework 3.5"
+                    "ProductCode" = "8:Microsoft.Net.Framework.3.5"
+                    }
+                    "{EDC2488A-8267-493A-A98E-7D9C3B36CDF3}:Microsoft.Windows.Installer.3.1"
+                    {
+                    "Name" = "8:Windows Installer 3.1"
+                    "ProductCode" = "8:Microsoft.Windows.Installer.3.1"
+                    }
+                }
+            }
         }
         "Release"
         {
@@ -293,6 +254,14 @@
         "PrivateKeyFile" = "8:"
         "TimeStampServer" = "8:"
         "InstallerBootstrapper" = "3:2"
+            "BootstrapperCfg:{63ACBE69-63AA-4F98-B2B6-99F9E24495F2}"
+            {
+            "Enabled" = "11:TRUE"
+            "PromptEnabled" = "11:TRUE"
+            "PrerequisitesLocation" = "2:1"
+            "Url" = "8:"
+            "ComponentsUrl" = "8:"
+            }
         }
     }
     "Deployable"
@@ -506,6 +475,26 @@
             "Register" = "3:1"
             "Exclude" = "11:FALSE"
             "IsDependency" = "11:TRUE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_91892B8252024D2092B9573BDFDBADAD"
+            {
+            "SourcePath" = "8:..\\TradeIdeasRobot\\Robot-icon-16x16.ico"
+            "TargetName" = "8:Robot-icon-16x16.ico"
+            "Tag" = "8:"
+            "Folder" = "8:_E1618DF7A87B45C8AE10CA0B3D8C0921"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_9DCC9B5C16D0E5D5FA72A412640804DA"
@@ -739,6 +728,17 @@
             "Property" = "8:ProgramMenuFolder"
                 "Folders"
                 {
+                    "{9EF0B969-E518-4E46-987F-47570745A589}:_EED932DC0E134DAC8322B4B05BE41B27"
+                    {
+                    "Name" = "8:Trade Ideas Robot"
+                    "AlwaysCreate" = "11:FALSE"
+                    "Condition" = "8:"
+                    "Transitive" = "11:FALSE"
+                    "Property" = "8:_CC661646853B4EAC800D08E495C7873A"
+                        "Folders"
+                        {
+                        }
+                    }
                 }
             }
             "{1525181F-901A-416C-8A58-119130FE478E}:_EF9FCD8C8151418C87232D686C1F87A1"
@@ -769,7 +769,7 @@
         "Name" = "8:Microsoft Visual Studio"
         "ProductName" = "8:Trade Ideas Robot"
         "ProductCode" = "8:{6F58E334-F3C7-43AC-BC91-AF61A1D6EA26}"
-        "PackageCode" = "8:{AA0423FD-B26D-405A-B8C7-DC85D8EDA3B7}"
+        "PackageCode" = "8:{E05CBC11-7579-4E73-B209-32BB57DC7662}"
         "UpgradeCode" = "8:{306FD760-8901-40C9-8307-F5CAB08EC962}"
         "RestartWWWService" = "11:FALSE"
         "RemovePreviousVersions" = "11:FALSE"
@@ -888,18 +888,18 @@
         }
         "Shortcut"
         {
-            "{970C0BB2-C7D0-45D7-ABFA-7EC378858BC0}:_97D5280470E448739E371BB8A5126A8D"
+            "{970C0BB2-C7D0-45D7-ABFA-7EC378858BC0}:_CB317E13C387407B9D82A1D3C34FF791"
             {
-            "Name" = "8:Shortcut to Primary output from TradeIdeasRobot (Active)"
+            "Name" = "8:TradeIdeasRobot"
             "Arguments" = "8:"
             "Description" = "8:"
             "ShowCmd" = "3:1"
             "IconIndex" = "3:0"
             "Transitive" = "11:FALSE"
-            "Target" = "8:_90C541ED8DEC45908A5EA9A96C3048BA"
-            "Folder" = "8:_EC02279670EA4745A0A7DA3F033B5FB7"
-            "WorkingFolder" = "8:_EC02279670EA4745A0A7DA3F033B5FB7"
-            "Icon" = "8:"
+            "Target" = "8:_7A19D47FA11A4EB1B42E1012709ED5A9"
+            "Folder" = "8:_EED932DC0E134DAC8322B4B05BE41B27"
+            "WorkingFolder" = "8:_E1618DF7A87B45C8AE10CA0B3D8C0921"
+            "Icon" = "8:_91892B8252024D2092B9573BDFDBADAD"
             "Feature" = "8:"
             }
         }
@@ -1329,12 +1329,12 @@
                 {
                 }
             }
-            "{5259A561-127C-4D43-A0A1-72F10C7B3BF8}:_90C541ED8DEC45908A5EA9A96C3048BA"
+            "{5259A561-127C-4D43-A0A1-72F10C7B3BF8}:_A9F40DDA5747498AB29600CDFE33C822"
             {
-            "SourcePath" = "8:..\\TradeIdeasRobot\\obj\\Debug\\TradeIdeasRobot.exe"
+            "SourcePath" = "8:"
             "TargetName" = "8:"
             "Tag" = "8:"
-            "Folder" = "8:_EC02279670EA4745A0A7DA3F033B5FB7"
+            "Folder" = "8:_E1618DF7A87B45C8AE10CA0B3D8C0921"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -1350,7 +1350,7 @@
             "IsolateTo" = "8:"
             "ProjectOutputGroupRegister" = "3:1"
             "OutputConfiguration" = "8:"
-            "OutputGroupCanonicalName" = "8:Built"
+            "OutputGroupCanonicalName" = "8:LocalizedResourceDlls"
             "OutputProjectGuid" = "8:{1104A279-1CCE-49E7-A84B-8805A13F1F70}"
             "ShowKeyOutput" = "11:TRUE"
                 "ExcludeFilters"

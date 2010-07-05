@@ -194,6 +194,7 @@
       <SubType>Designer</SubType>
     </EmbeddedResource>
     <Content Include="NLog.xml" />
+    <Content Include="Robot-icon-16x16.ico" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
