@@ -1,4 +1,4 @@
-#Create a new Strategy
+#CreateNewStrategy
 
 = Introduction =
 
