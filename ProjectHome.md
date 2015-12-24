@@ -1,0 +1,1 @@
+The automated trading robot will take signals from Trade-Ideas and issue orders to InteractiveBrokers accounts.  The interface is set up to mirror the T-I OddsMaker allowing users to identify setups, back test using the OddsMaker and then use these settings to take real trades going forwards.
